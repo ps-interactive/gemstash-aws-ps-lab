@@ -1,0 +1,6 @@
+  
+#!/usr/bin/env ruby
+
+require "private_parrot"
+
+PrivateParrot::CLI.run ARGV[0]
